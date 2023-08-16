@@ -3,8 +3,7 @@ Application that lets you chat among group.
 
 How to run the application :
 Step 1 : Install all the dependencies using
-            ```bash
-            npm install
+            ```npm install
             ```
 Step 2 : Run this command to run backend  
             npm run start
